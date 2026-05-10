@@ -4,5 +4,14 @@
   "artist": "Higoro Toumori",
   "author": "Mozuku Sora",
   "cover": "https://dosbg3xlm0x1t.cloudfront.net/images/items/9784088832364/1200/9784088832364.jpg",
-  "chapters": {}
+  "chapters": {
+    "002": {
+      "title": "Hai ngọn tháp chủ",
+      "last_updated": "1778426009",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/qe4gk8x9b7j"
+      },
+      "volume": "01"
+    }
+  }
 }
