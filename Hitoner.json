@@ -13,13 +13,21 @@
       },
       "volume": "01"
     },
+    "003": {
+      "title": "Ngôn ngữ của Hito",
+      "last_updated": "1778414599",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/qe4gk8lrj7j"
+      },
+      "volume": "01"
+    },
     "002": {
       "title": "Tôi, Hito",
-      "last_updated": "1778360141",
+      "last_updated": "1778414624",
       "groups": {
-        "Kyō Translation": "/proxy/api/imgchest/chapter/o24aonm83yl"
+        "Kyō Translation": "/proxy/api/imgchest/chapter/xny889zl5yb"
       },
-      "volume": "02"
+      "volume": "01"
     }
   }
 }
