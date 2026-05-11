@@ -68,6 +68,46 @@
         "Kyō Translation": "/proxy/api/imgchest/chapter/9p4nm65x5yn"
       },
       "volume": "01"
+    },
+    "012": {
+      "title": "Vết sẹo cũ",
+      "last_updated": "1778507987",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/agyvalmo9y8"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "Nơi tôi thuộc về",
+      "last_updated": "1778508004",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/n87w2jwoz7x"
+      },
+      "volume": "02"
+    },
+    "011": {
+      "title": "Da rắn và hoa mơ",
+      "last_updated": "1778508041",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/xny889bjoyb"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "Những đứa con của rắn",
+      "last_updated": "1778508046",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/qb4zqrao34j"
+      },
+      "volume": "02"
+    },
+    "013": {
+      "title": "Rắn",
+      "last_updated": "1778508142",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/bp45enal245"
+      },
+      "volume": "02"
     }
   }
 }
