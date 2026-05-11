@@ -28,6 +28,46 @@
         "Kyō Translation": "/proxy/api/imgchest/chapter/a846z9jezyx"
       },
       "volume": "01"
+    },
+    "006": {
+      "title": "Điềm báo",
+      "last_updated": "1778505851",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/pg7338zwo7r"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Vợ chồng",
+      "last_updated": "1778505861",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/qb4zqrajl4j"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Mùa đông xa cách",
+      "last_updated": "1778505870",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/qe4gk8oxk7j"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Bạn mới",
+      "last_updated": "1778505874",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/bp45enazv45"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "Vượt qua mùa đông",
+      "last_updated": "1778505906",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/9p4nm65x5yn"
+      },
+      "volume": "01"
     }
   }
 }
