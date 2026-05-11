@@ -1,0 +1,33 @@
+{
+  "title": "Daija ni Totsuida Musume",
+  "description": "Suốt năm trăm năm qua, một vị xà thần khổng lồ ngự trị nơi ngọn núi cổ xưa. Miyo, một thiếu nữ bất hạnh từ ngôi làng gần đó, bị chọn làm vật tế cho đại xà thần. Miyo sợ rằng mình sẽ bị nuốt chửng, thế nhưng vị thần ấy không những không ăn thịt cô, mà lại đối xử với cô như một người vợ thực thụ. Chiếc lưỡi thè ra rung lên những lời đường mật dịu dàng, trong khi cơ thể uốn lượn của ngài siết trọn lấy cô. Rốt cuộc, ý nghĩa thực sự của việc trở thành cô dâu của một huyễn thú là gì?",
+  "artist": "Fushiashikumo",
+  "author": "Fushiashikumo",
+  "cover": "https://ogre.natalie.mu/media/news/comic/2021/1112/daija01_cov.jpg?imwidth=750&imdensity=1",
+  "chapters": {
+    "002": {
+      "title": "Đêm đầu tiên",
+      "last_updated": "1778498591",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/qb4zqrzxd4j"
+      },
+      "volume": "01"
+    },
+    "001": {
+      "title": "Làm vợ một huyễn thú",
+      "last_updated": "1778498634",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/9rydoewga7k"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Thay đổi",
+      "last_updated": "1778498658",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/a846z9jezyx"
+      },
+      "volume": "01"
+    }
+  }
+}
