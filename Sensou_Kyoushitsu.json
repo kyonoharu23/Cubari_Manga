@@ -28,6 +28,86 @@
         "Kyō Translation": "/proxy/api/imgchest/chapter/ljyqe6vqoy2"
       },
       "volume": "01"
+    },
+    "005": {
+      "title": "Trận chiến thành Cannoli (1)",
+      "last_updated": "1778682321",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/m9yxlle8kyq"
+      },
+      "volume": "02"
+    },
+    "006": {
+      "title": "Trận chiến thành Cannoli (2)",
+      "last_updated": "1778682324",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/9249558payn"
+      },
+      "volume": "02"
+    },
+    "007": {
+      "title": "Tỏa sáng trong màn đêm sâu thẳm",
+      "last_updated": "1778682327",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/a846zzewvyx"
+      },
+      "volume": "02"
+    },
+    "004": {
+      "title": "Cuộc viễn chinh đầu tiên",
+      "last_updated": "1778682337",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/agyvaa39zy8"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "Flower Ring (Vòng hoa)",
+      "last_updated": "1778682466",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/ej7mrrblj4d"
+      },
+      "volume": "03"
+    },
+    "009": {
+      "title": "Nhà gương",
+      "last_updated": "1778682479",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/pg7333m537r"
+      },
+      "volume": "03"
+    },
+    "011": {
+      "title": "Boy Meets Lady",
+      "last_updated": "1778682546",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/92495583ayn"
+      },
+      "volume": "04"
+    },
+    "010": {
+      "title": "Dự báo thời tiết",
+      "last_updated": "1778682603",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/agyvaa3rzy8"
+      },
+      "volume": "03"
+    },
+    "013": {
+      "title": "Flowering (Khai hoa)",
+      "last_updated": "1778682666",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/pg7333mov7r"
+      },
+      "volume": "04"
+    },
+    "012": {
+      "title": "Khoảng không yêu dấu",
+      "last_updated": "1778682710",
+      "groups": {
+        "Kyō Translation": "/proxy/api/imgchest/chapter/vj4jjjxm548"
+      },
+      "volume": "04"
     }
   }
 }
